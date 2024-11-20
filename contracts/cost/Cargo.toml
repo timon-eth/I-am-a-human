@@ -1,0 +1,8 @@
+[package]
+name = "cost"
+version = "1.0.0"
+authors = ["Robert Zaremba 'https://zaremba.ch/'"]
+edition = "2021"
+
+[dependencies]
+near-sdk.workspace = true

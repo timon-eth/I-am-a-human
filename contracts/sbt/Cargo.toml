@@ -1,0 +1,13 @@
+[package]
+name = "sbt"
+version = "1.0.0"
+authors = ["Robert Zaremba 'https://zaremba.ch/'"]
+edition = "2021"
+
+[dependencies]
+uint.workspace = true
+near-sdk.workspace = true
+serde_json.workspace = true
+near-contract-standards.workspace = true
+
+[dev-dependencies]
